@@ -1,0 +1,7 @@
+Istruzioni per completare la sfida ctf "Python Wrangling":
+
+soluzione
+    - Eseguire il programma Python ende.py in questo modo: python ende.py -d flag.txt.end
+    - il programma ti chiderà di inserire la password. 
+    - la password si trova nel file pw.txt
+    - Ottieni così il flag
